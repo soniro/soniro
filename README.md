@@ -1,16 +1,13 @@
-### Hi there 👋
+## Welcome :wave:
 
-<!--
-**soniro/soniro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :computer: I am a Software Engineer at Google
+- :speech_balloon: Pronouns: she/her.
+- :octocat: My personal repositories are in general for me to learn something new
+  - new programming languages
+  - new language features
+  - new patterns
+  - new ways to solve a coding kata
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/soniro"><img src="https://img.shields.io/github/followers/soniro.svg?label=GitHub&style=social" alt="GitHub"></a>
+<a href="https://twitter.com/_ninahartmann"><img src="https://img.shields.io/twitter/follow/_ninahartmann?label=Twitter&style=social" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/ninahartmann"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
